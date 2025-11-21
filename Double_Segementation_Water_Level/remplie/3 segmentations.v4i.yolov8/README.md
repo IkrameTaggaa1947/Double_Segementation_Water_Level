@@ -1,4 +1,4 @@
-# 🍶 YOLOv8 Bottle Segmentation Interface
+#  YOLOv8 Bottle Segmentation Interface
 
 Interface OpenCV optimisée pour la détection et segmentation de bouteilles en temps réel.
 
@@ -25,7 +25,7 @@ Interface OpenCV optimisée pour la détection et segmentation de bouteilles en 
 2. **Cliquer sur la flèche "Run" ** en haut à droite
 3. **L'interface s'ouvre automatiquement** avec la webcam
 
-## 🎮 Contrôles
+##  Contrôles
 
 - **Q ou ESC** : Quitter l'application
 - **SPACE** : Pause/Reprendre la détection
@@ -42,7 +42,7 @@ Interface OpenCV optimisée pour la détection et segmentation de bouteilles en 
 
 Les fichiers suivants ont été supprimés car ils ne sont pas nécessaires au fonctionnement de l'interface :
 
-### 📄 Scripts et Fichiers de Configuration
+###  Scripts et Fichiers de Configuration
 - `interface_auto.py` - Version alternative
 - `interface_opencv_fixed.py` - Version de backup
 - `quick_test.py` - Script de test
@@ -73,4 +73,5 @@ Le nettoyage a permis de supprimer plusieurs GB de fichiers non nécessaires tou
 
 ---
 
-*Interface prête à l'emploi - Cliquez simplement sur Run ! 🚀*
+*Interface prête à l'emploi - Cliquez simplement sur Run ! *
+
